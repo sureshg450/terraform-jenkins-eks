@@ -1,2 +1,2 @@
-# EKS_CLUSTER_IMPLEMETATION_USING_TERRAFORM_JENKINS
+# EKS_Cluster_implementation
 Deploying EKS Cluster using Terraform and Jenkins.
